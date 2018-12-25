@@ -1,0 +1,22 @@
+* {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+	background-image: url(Fire.jpg);
+	background-size: cover;
+}
+
+.navbar-brand {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.cover-heading {
+	align-content: center;
+	color: white;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.lead {
+	color: white;
+}

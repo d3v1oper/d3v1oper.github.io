@@ -1,0 +1,17 @@
+body {
+	background-image: url(Fire.jpg);
+	background-size: cover;
+}
+
+.card-deck {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.card-title {
+	color: white;
+}
+
+.card-text {
+	color: white;
+}
